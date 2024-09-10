@@ -1,0 +1,12 @@
+E:\quanlyshopquanao\bin\Debug\quanlyshopquanao.exe.config
+E:\quanlyshopquanao\bin\Debug\quanlyshopquanao.exe
+E:\quanlyshopquanao\bin\Debug\quanlyshopquanao.pdb
+E:\quanlyshopquanao\obj\Debug\quanlyshopquanao.csproj.AssemblyReference.cache
+E:\quanlyshopquanao\obj\Debug\quanlyshopquanao.Properties.Resources.resources
+E:\quanlyshopquanao\obj\Debug\quanlyshopquanao.csproj.GenerateResource.cache
+E:\quanlyshopquanao\obj\Debug\quanlyshopquanao.csproj.CoreCompileInputs.cache
+E:\quanlyshopquanao\obj\Debug\quanlyshopquanao.exe
+E:\quanlyshopquanao\obj\Debug\quanlyshopquanao.pdb
+E:\quanlyshopquanao\obj\Debug\quanlyshopquanao.Themmathangmoi.resources
+E:\quanlyshopquanao\obj\Debug\quanlyshopquanao.Lapphieunhaphangmoi.resources
+E:\quanlyshopquanao\obj\Debug\quanlyshopquanao.Xemlaiphieunhaphang.resources
